@@ -1,6 +1,8 @@
 # Danilo O. Pinheiro
 ### Hi there 👋
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
+
 <!--
 **DaniloOP1381521/DaniloOP1381521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
