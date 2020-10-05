@@ -6,9 +6,9 @@
 
 <hr>
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&layout=chartreuse-dark" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOP1381521&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOP1381521&show_icons=true&layout=chartreuse-dark" />
 </p>
 
 <!--
