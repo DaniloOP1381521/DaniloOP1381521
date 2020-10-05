@@ -2,11 +2,9 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
-
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br)
 
 ![](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=merko)
-
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br)
 
 <!--
 **DaniloOP1381521/DaniloOP1381521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
