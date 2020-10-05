@@ -4,9 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br)
 
-![](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=merko)
+<hr>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&layout=compact" />
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOP1381521&langs_count=8&show_icons=true&theme=merko)](https://github.com/DaniloOP1381521/DaniloOP1381521)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOP1381521&show_icons=true&layout=compact" />
+</p>
 
 <!--
 **DaniloOP1381521/DaniloOP1381521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
