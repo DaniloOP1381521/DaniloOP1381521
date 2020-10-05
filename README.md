@@ -6,7 +6,7 @@
 
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=radical)](https://github.com/DaniloOP1381521)
 
-[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/DaniloOP1381521)
 
 <!--
 <hr>
