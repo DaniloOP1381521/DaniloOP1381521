@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
 
 
-![](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=dracula)
 
 
 <!--
