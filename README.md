@@ -2,8 +2,9 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br)
+[![Linkedin](https://img.shields.io/twitter/url?style=social)](https://twitter.com/dan_opinheiro)
 
+<!-- [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br) -->
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=radical)](https://github.com/DaniloOP1381521)
 
 [![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOP1381521&layout=compact&theme=radical)](https://github.com/DaniloOP1381521)
