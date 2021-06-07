@@ -10,6 +10,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/No_Brick2345)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://daniloopro.medium.com/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/09027812347261688269)
+[![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/DaniloOP1381521)
 
 <!-- [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:1381521@ises.com.br) -->
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOP1381521&show_icons=true&theme=radical)](https://github.com/DaniloOP1381521)
